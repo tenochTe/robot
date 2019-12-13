@@ -1,0 +1,9 @@
+# JAVA Project #
+/bin/
+/.settings/
+/target/
+.classpath
+.project
+
+
+
